@@ -1,6 +1,6 @@
 # XCIPTV Repository for Kodi add-ons
 
-[Repository installation file [repository.xciptv-3.1.4.zip]](https://github.com/keepupapps/repository.xciptv/raw/kodi/repository.xciptv-3.1.4.zip)
+[Repository installation file [repository.xciptv-3.1.4.zip]](https://github.com/KeepUpApps/repository.xciptv/blob/main/repository.xciptv-3.1.4.zip)
 
 ---
 
